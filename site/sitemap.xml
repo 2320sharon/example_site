@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://2320sharon.github.io/example_site/</loc>
+         <lastmod>2024-04-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://2320sharon.github.io/example_site/extract_shorelines/</loc>
+         <lastmod>2024-04-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://2320sharon.github.io/example_site/getting-started/</loc>
+         <lastmod>2024-04-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://2320sharon.github.io/example_site/how-to-auth/</loc>
+         <lastmod>2024-04-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://2320sharon.github.io/example_site/how-to-download/</loc>
+         <lastmod>2024-04-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://2320sharon.github.io/example_site/install/</loc>
+         <lastmod>2024-04-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
