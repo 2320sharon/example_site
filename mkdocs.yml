@@ -2,6 +2,9 @@ site_name: CoastSeg
 site_description: An interactive toolbox for downloading satellite imagery, applying image segmentation models, mapping shoreline positions and more. The mapping extension for CoastSat and Zoo.
 site_author: Sharon Fitzpatrick
 site_url: https://2320sharon.github.io/example_site/
+repo_url: https://github.com/SatelliteShorelines/CoastSeg
+repo_name: CoastSeg
+edit_uri: edit/main/docs/
 
 theme:
   name: material
